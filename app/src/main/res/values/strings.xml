@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gezegende Kaç Kilosun</string>
+    <string name="gezegenKacKilosun">GEZEGENDE KAÇ KİLOSUN</string>
+    <string name="name">Name</string>
+    <string name="dunyadaki_kilo">Dünyadaki Kilo</string>
+    <string name="venus">venus</string>
+</resources>
